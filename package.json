@@ -1,0 +1,19 @@
+{
+  "name": "description-scraper",
+  "version": "1.0.0",
+  "description": "a description scraper",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/midastouchprd/description-scraper.git"
+  },
+  "author": "Tosin Awofeso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/midastouchprd/description-scraper/issues"
+  },
+  "homepage": "https://github.com/midastouchprd/description-scraper#readme"
+}
